@@ -1,0 +1,37 @@
+{
+    "SBER": {
+        "name": "Сбербанк",
+        "img": "https://invest-brands.cdn-tinkoff.ru/sber3x160.png",
+        "figi": "BBG004730N88"
+    },
+    "GAZP": {
+        "name": "Газпром",
+        "img": "https://invest-brands.cdn-tinkoff.ru/RU0007661625x160.png",
+        "figi": "BBG004730RP0"
+    },
+    "LKOH": {
+        "name": "Лукойл",
+        "img": "https://invest-brands.cdn-tinkoff.ru/RU0009024277x160.png",
+        "figi": "BBG004731032"
+    },
+    "VTBR": {
+        "name": "ВТБ",
+        "img": "https://invest-brands.cdn-tinkoff.ru/vtbx160.png",
+        "figi": "BBG004730ZJ9"
+    },
+    "YNDX": {
+        "name": "Яндекс",
+        "img": "https://invest-brands.cdn-tinkoff.ru/NL000980552x160.png",
+        "figi": "BBG006L8G4H1"
+    },
+    "RNFT": {
+        "name": "РусНефть",
+        "img": "https://invest-brands.cdn-tinkoff.ru/RU000A0JSE60x160.png",
+        "figi": "BBG00F9XX7H4"
+    },
+    "KAZT": {
+        "name": "КуйбышевАзот",
+        "img": "https://invest-brands.cdn-tinkoff.ru/RU000A0B9BV2x160.png",
+        "figi": "BBG002B9MYC1"
+    }
+}

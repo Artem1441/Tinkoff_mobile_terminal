@@ -1,0 +1,16 @@
+{
+    "RUB": {
+        "name": "Рубль",
+        "img": "https://invest-brands.cdn-tinkoff.ru/sber3x160.png",
+        "figi": "RUB000UTSTOM"
+    },
+    "USD": {
+        "name": "Доллар",
+        "img": "https://invest-brands.cdn-tinkoff.ru/RU0007661625x160.png",
+        "figi": "BBG0013HGFT4"
+    },
+        "SVAV": {
+        "name": "СОЛЛЕРС",
+        "img": "https://invest-brands.cdn-tinkoff.ru/RU0006914488x640.png"
+    }
+}
